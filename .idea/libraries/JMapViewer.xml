@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="JMapViewer">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/lib/jmap-viewer/JMapViewer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/lib/jmap-viewer/JMapViewer_src.jar!/" />
+    </SOURCES>
+  </library>
+</component>
